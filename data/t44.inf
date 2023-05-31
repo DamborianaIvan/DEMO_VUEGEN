@@ -1,0 +1,11 @@
+[t44]
+FileName1=t44_CordovaEvents.html
+URL1=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/appjs/CordovaEvents.js
+Total=1
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_44.xml
+RequestHeaderFile=t44_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t44_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

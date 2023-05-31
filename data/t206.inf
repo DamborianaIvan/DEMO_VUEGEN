@@ -1,0 +1,11 @@
+[t206]
+FileName1=t206_Parametros.json
+URL1=https://ncdtesting.bancocredicoop.coop/services/metadata/v1/RBObjects/Parametros
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_206.xml
+RequestHeaderFile=t206_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t206_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

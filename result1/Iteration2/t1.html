@@ -1,0 +1,345 @@
+
+
+  
+
+<!DOCTYPE html>
+<html  manifest="/apps/NCDBC/nocache/desktopweb/kony.manifest"  >
+    <head>
+    <base href="/apps/NCDBC/455133105/" target="_blank">
+	 
+	
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	
+	
+		<link rel="shortcut icon" href="/apps/NCDBC/455133105/desktopweb/images/favicon.ico?ver=455133105">
+	
+	
+	
+        
+	
+	
+	<script type="text/javascript"> 
+		IndexJL = 0; 
+	</script>
+	
+	
+	
+		<script type="text/javascript" src="desktopweb/jslib/tparty/widgets/imageUpload/imageUpload.js"></script>	 
+	 
+	 
+	
+	 
+	
+	
+		   <style type="text/css">
+			
+				@font-face {
+				  font-family: 'FontAwesome5Pro-Light';
+				  src: url('desktopweb/FontAwesome5Pro-Light.ttf'), url('desktopweb/FontAwesome5Pro-Light.eot');
+				}
+			
+				@font-face {
+				  font-family: 'FontAwesome5Pro-Regular';
+				  src: url('desktopweb/FontAwesome5Pro-Regular.ttf'), url('desktopweb/FontAwesome5Pro-Regular.eot');
+				}
+			
+				@font-face {
+				  font-family: 'FontAwesome5Pro-Solid';
+				  src: url('desktopweb/FontAwesome5Pro-Solid.ttf'), url('desktopweb/FontAwesome5Pro-Solid.eot');
+				}
+			
+				@font-face {
+				  font-family: 'Lato-Black';
+				  src: url('desktopweb/Lato-Black.ttf'), url('desktopweb/Lato-Black.eot');
+				}
+			
+				@font-face {
+				  font-family: 'Lato-Light';
+				  src: url('desktopweb/Lato-Light.ttf'), url('desktopweb/Lato-Light.eot');
+				}
+			
+				@font-face {
+				  font-family: 'Lato-Medium';
+				  src: url('desktopweb/Lato-Medium.ttf'), url('desktopweb/Lato-Medium.eot');
+				}
+			
+				@font-face {
+				  font-family: 'Lato-Regular';
+				  src: url('desktopweb/Lato-Regular.ttf'), url('desktopweb/Lato-Regular.eot');
+				}
+			
+				@font-face {
+				  font-family: 'Lato-Semibold';
+				  src: url('desktopweb/Lato-Semibold.ttf'), url('desktopweb/Lato-Semibold.eot');
+				}
+			
+				@font-face {
+				  font-family: 'material';
+				  src: url('desktopweb/material.ttf'), url('desktopweb/material.eot');
+				}
+			
+				@font-face {
+				  font-family: 'Montserrat-Bold';
+				  src: url('desktopweb/Montserrat-Bold.ttf'), url('desktopweb/Montserrat-Bold.eot');
+				}
+			
+				@font-face {
+				  font-family: 'Montserrat-Medium';
+				  src: url('desktopweb/Montserrat-Medium.ttf'), url('desktopweb/Montserrat-Medium.eot');
+				}
+			
+				@font-face {
+				  font-family: 'Montserrat-Regular';
+				  src: url('desktopweb/Montserrat-Regular.ttf'), url('desktopweb/Montserrat-Regular.eot');
+				}
+			
+				@font-face {
+				  font-family: 'olb_fonts';
+				  src: url('desktopweb/olb_fonts.ttf'), url('desktopweb/olb_fonts.eot');
+				}
+			
+				@font-face {
+				  font-family: 'olb_fonts_icon_new';
+				  src: url('desktopweb/olb_fonts_icon_new.ttf'), url('desktopweb/olb_fonts_icon_new.eot');
+				}
+			
+				@font-face {
+				  font-family: 'OLB_font_icons';
+				  src: url('desktopweb/OLB_font_icons.ttf'), url('desktopweb/OLB_font_icons.eot');
+				}
+			
+				@font-face {
+				  font-family: 'SourceSansPro-Regular';
+				  src: url('desktopweb/SourceSansPro-Regular.ttf'), url('desktopweb/SourceSansPro-Regular.eot');
+				}
+			
+				@font-face {
+				  font-family: 'SourceSansPro-SemiBold';
+				  src: url('desktopweb/SourceSansPro-SemiBold.ttf'), url('desktopweb/SourceSansPro-SemiBold.eot');
+				}
+			
+			</style>
+		   
+	
+
+	
+	<script>
+		function getLang() {
+			if (navigator.language != undefined) 
+				return navigator.language;
+			else if(navigator.browserLanguage != undefined)
+				return  navigator.browserLanguage;
+			else 
+					return "";
+		}
+							 
+	function appendSplashImage() { 
+		 var locales =  ["en_US","es_ES"]; // Locales
+		 var browserLocale = getLang().replace("-","_"); 
+		 var defaultLocale = "es_ES"; // default locale
+		 var splashImage = "loader_loop.gif";
+		 var ss=document.getElementById("splashScreen"); 
+		 if(ss) { 
+			if(browserLocale && browserLocale !="" && locales.indexOf(browserLocale) >= 0 ){
+				ss.style.background = " #ffffff url('desktopweb/images/"+browserLocale+"/"+splashImage+"') no-repeat fixed center center"; 
+			} else if(defaultLocale != "") {
+				ss.style.background = " #ffffff url('desktopweb/images/"+defaultLocale+"/"+splashImage+"') no-repeat fixed center center";
+			} else {
+				ss.style.background = " #ffffff url('desktopweb/images/"+splashImage+"') no-repeat fixed center center";
+			}
+		 }	
+	}
+	setTimeout(function(){appendSplashImage()},100); 
+	</script>
+	 
+
+	<style type="text/css" media="screen">
+		.splash {
+			position: absolute;
+			top: 0px;
+			right: 0px;
+			left: 0px;
+			bottom: 0px;
+			
+				 
+			 
+			animation: fadein 1.5s ease-in;
+			-moz-animation: fadein 1.5s ease-in;
+		}
+
+		@-webkit-keyframes fadein
+		{
+			from { opacity: 0; }
+			to { opacity: 1; }
+		}
+
+		keyframes fadein
+		{
+			from { opacity: 0; }
+			to { opacity: 1; }
+		}
+	</style>
+
+    
+        
+    
+
+	
+
+	
+		<title> CREDICOOP </title>
+	 
+	</head> 
+         
+
+		<body style= "width: 100%; margin: 0px; padding: 0px;" bodyalign="left" aria-busy='true' aria-live='polite' aria-relevant='additions' aria-atomic='false'>
+			
+			<DIV id="splashDiv"> 
+				<input type="hidden" name="_reqHeaders" value=''>
+				<input type="hidden" name="_reqParams" value='e30='>
+				<input type="hidden" name="_konyAppProperties" value=''>
+					
+				<div id="splashScreen" class="splash" style=""></div>
+				
+				<div style="display:none" id="sessionId" >k30rNUoILgat9_ILlrNkFGrQWTgJJvlyLPoPrefS</div> 
+				
+					<div id="isnewsession" style="display:none">true</div>
+					 
+				
+		<script type="text/javascript"> 
+			
+				setTimeout(function() {
+				
+					initappcache();
+				}, 0);
+				function initappcache ()
+				{
+					if (document.documentElement.getAttribute("manifest") && !! window.applicationCache) {
+							var a = ["checking", "downloading", "progress", "cached", "noupdate", "updateready", "obsolete", "error"];
+							for (var d = 0; d < a.length; d++) {
+									window.applicationCache.addEventListener(a[d],appcacheeventhndlr, false)
+							}
+					}  
+					loadKonyframework(); 
+				}
+
+				function appcacheeventhndlr(event)
+				{
+					if(!event)
+							event = window.event;
+					switch (event.type) {
+							case "checking":
+									console.log("Checking for Manifest Version");
+									break;
+
+							case "downloading":						
+									console.log("Downloading of Manifest Resources");
+									break;
+
+							case "progress":
+									break;
+
+							case "cached":
+									console.log("Manifest Resources loading done"); 
+									break;
+
+							case "noupdate":
+									console.log("No Change in Manifest File"); 
+									break;
+
+							case "updateready":
+									console.log("New manifest resources downloaded,swap the cache");
+									try{
+										window.applicationCache.swapCache(); 
+										window.location.reload();
+									}catch (e) {
+										console.log("invalid state: swapping the cache");
+									}                                            
+									break;
+
+							case "obsolete":
+									console.log("Cache Manifest file not found. So deleting app cache");
+									break;
+
+							case "error":
+									console.log("Error while loading app cache"); 
+									break;
+
+							default:
+									console.log("Appcache Event not supported");
+					}		
+				}
+			
+			
+				function initializeframework() 
+				{				
+					$KG["staticContentPath"] =  "";
+					kony.appinit.prepareHttpHeaders();  
+					$KG["skipproxy"] = true;			
+					kony.appinit.verifyhref(true);		
+				}
+
+				function loadKonyframework() 
+				{	
+					addScript("jslib/konyframework.js");
+				}
+
+				function loadappjs() 
+				{	 
+					$KG["staticContentPath"] =  "";
+					$KG["platformver"] = "desktopweb/";
+					$KG["rcid"] = "spadesktopweb";
+					$KG["version"] = "2.71.30";
+					$KG["imagecat"] =  "";
+					$KG["retina"] = "";
+					addScript("appjs/app.js");
+				}
+				function addScript (src) 
+				{ 		
+					var head =  document.getElementsByTagName('head')[0];						
+					var	script = document.createElement('script');
+					script.src = "desktopweb/" + src;
+					script.type = "text/javascript";
+				
+				if(src ==="appjs/app.js" || src ==="appjs/appie.js"){
+						if(!script.addEventListener) {
+							script.onreadystatechange = function(){
+									(this.readyState == 'complete' || this.readyState == 'loaded') && initializeframework();
+							};
+						}
+						else {
+							script.onload = initializeframework;
+						}
+					}		
+					else{							
+						if(!script.addEventListener) {
+							script.onreadystatechange = function(){
+									(this.readyState == 'complete' || this.readyState == 'loaded') && loadappjs();
+							};
+						}
+						else {
+							script.onload = loadappjs;
+						}
+					} 
+					head.appendChild(script);
+				}	 
+		</script>
+			<style>
+				#JavaScriptDisabledErrorMsg { display:none; }
+			</style>
+			<noscript>
+				<style type='text/css'>
+					form {display: none !important}
+					* html ul li {height:1em; vertical-align:bottom;}
+					html {display : block}
+					#JavaScriptDisabledErrorMsg {display:block;}
+					#splashScreen_main{display:none;}
+				</style>
+			</noscript>
+			<div id="JavaScriptDisabledErrorMsg"> To use this site, first enable your browser's JavaScript support and then refresh this page. </div>
+		</DIV>
+	
+		</body>
+</html>

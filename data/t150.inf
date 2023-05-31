@@ -1,0 +1,11 @@
+[t150]
+FileName1=t150_Limits.json
+URL1=https://ncdtesting.bancocredicoop.coop/services/metadata/v1/RBObjects/Limits
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_150.xml
+RequestHeaderFile=t150_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t150_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

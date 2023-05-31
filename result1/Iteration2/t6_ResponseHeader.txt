@@ -1,0 +1,23 @@
+HTTP/2.0 200
+Status: 200
+date: Wed, 31 May 2023 14:13:15 GMT
+content-type: application/json; charset=utf-8
+content-length: 2
+server: BunnyCDN-AR1-813
+cdn-pullzone: 1398325
+cdn-uid: 6e250c96-9d83-4c29-a085-c80a2c4f92cc
+cdn-requestcountrycode: AR
+access-control-allow-origin: *
+cache-control: public, max-age=2592000
+etag: W/"2-l9Fw4VUO7kr8CvBlt4zaMCqXZ0w"
+via: 1.1 vegur
+x-powered-by: Express
+cdn-proxyver: 1.03
+cdn-requestpullsuccess: True
+cdn-requestpullcode: 200
+cdn-cachedat: 05/31/2023 13:30:31
+cdn-edgestorageid: 813
+cdn-status: 200
+cdn-requestid: aaa1a130f613bb493f7dc5882382eef6
+cdn-cache: HIT
+

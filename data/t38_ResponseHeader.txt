@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+content-encoding: gzip
+cache-control: max-age=86400
+x-xss-protection: 1
+date: Thu, 11 May 2023 13:49:48 GMT
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+transfer-encoding: chunked
+content-type: font/ttf
+

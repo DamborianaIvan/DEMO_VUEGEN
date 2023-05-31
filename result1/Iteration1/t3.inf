@@ -1,0 +1,18 @@
+[t3]
+FileName2=t1_1_imageUpload.js
+RawStepEndTime=1685542371479
+RequestBodyFile=t3_RequestBody.txt
+RawStepName=token
+ContentType=application/json
+URL1=https://www.googleapis.com/oauth2/v4/token
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/455133105/desktopweb/jslib/tparty/widgets/imageUpload/imageUpload.js
+URL3=http://192.168.0.16:8008/ssdp/device-desc.xml
+ResponseHeaderFile=t3_ResponseHeader.txt
+SnapshotXmlFile=snapshot_3.xml
+RequestHeaderFile=t3_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1685542371289
+Total=3
+StepName=Custom Request: token
+FileName1=t3.json
+FileName3=t1_0_device-desc.xml

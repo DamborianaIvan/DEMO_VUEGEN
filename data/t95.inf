@@ -1,0 +1,13 @@
+[t95]
+FileName1=t95.json
+URL1=https://mainnet.infura.io/v3/b8cdb0e4cff24599a286bf8e87ff1c96
+Total=2
+RequestHeaderFile=t95_RequestHeader.txt
+RequestBodyFile=t95_RequestBody.txt
+ResponseHeaderFile=t95_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_95.xml
+FileName2=t95_app.html
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/appjs/app.js
+[ProtocolInfo]
+ProtocolId=QTWeb

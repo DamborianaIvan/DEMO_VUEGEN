@@ -1,0 +1,15 @@
+[t162]
+FileName1=t162.json
+URL1=https://mainnet.infura.io/v3/b8cdb0e4cff24599a286bf8e87ff1c96
+Total=3
+RequestHeaderFile=t162_RequestHeader.txt
+RequestBodyFile=t162_RequestBody.txt
+ResponseHeaderFile=t162_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_162.xml
+FileName2=t162_app.html
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/appjs/app.js
+FileName3=t162_exceptionrules.sql
+URL3=https://easylist-downloads.adblockplus.org/exceptionrules.txt?addonName=adblockchrome&addonVersion=5.6.0&application=chrome&applicationVersion=113.0.0.0&platform=chromium&platformVersion=113.0.0.0&lastVersion=202305101540&downloadCount=4%2B&disabled=false&manifestVersion=2&firstVersion=202302
+[ProtocolInfo]
+ProtocolId=QTWeb

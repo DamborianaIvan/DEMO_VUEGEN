@@ -1,0 +1,17 @@
+[t101]
+FileName1=t101.json
+URL1=https://mainnet.infura.io/v3/b8cdb0e4cff24599a286bf8e87ff1c96
+Total=4
+RequestHeaderFile=t101_RequestHeader.txt
+RequestBodyFile=t101_RequestBody.txt
+ResponseHeaderFile=t101_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_101.xml
+FileName2=t101_Montserrat-Medium.html
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/Montserrat-Medium.ttf
+FileName3=t101_Lato-Semibold.html
+URL3=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/Lato-Semibold.ttf
+FileName4=t101_en_US.html
+URL4=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/resources/strings/en_US.js?ver=2.71.28
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t174]
+FileName1=t174.json
+URL1=https://ncdtesting.bancocredicoop.coop/authService/100000002/appconfig
+Total=2
+RequestHeaderFile=t174_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t174_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_174.xml
+FileName2=t174_es_ES.html
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/resources/strings/es_ES.js?ver=2.71.28
+[ProtocolInfo]
+ProtocolId=QTWeb

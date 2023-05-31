@@ -1,0 +1,15 @@
+[t93]
+FileName1=t93_tmp.json
+URL1=https://cdn.unistream.io/interaction/list/filtered/tmp?scopeId=PRD_L9FZ
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_93.xml
+RequestHeaderFile=t93_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t93_ResponseHeader.txt
+FileName2=t93_konyframework.html
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/jslib/konyframework.js
+FileName3=t93_loader_loop.gif
+URL3=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/images/en_US/loader_loop.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

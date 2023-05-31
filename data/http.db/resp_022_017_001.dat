@@ -1,0 +1,1 @@
+{"opstatus":0,"passwordlockoutsettings":{"accountLockoutTime":"1440","passwordExpiryWarningRequired":"false","intentosRecuperacion":"3","passwordHistoryCount":"8","recoveryEmailLinkValidity":"1440","intentosRecuperacionCaptcha":"2","passwordValiditySFA":"180","accountLockoutThreshold":"5","passwordExpiryWarningThreshold":"5","passwordValidity":"31"},"httpStatusCode":0}

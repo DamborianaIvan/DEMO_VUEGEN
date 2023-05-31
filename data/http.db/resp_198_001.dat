@@ -1,0 +1,4 @@
+257
+ { "created_at": "2023-05-11T14:20:42.213695159Z", "id5_consent": true, "original_uid": "ID5*u1zctxKnzdJGClqkiI7zjyKGX47A0Jft5R2XomWyJdxJGQiikNPeZWzlAgtt2yy-SRoF0ciwu6sRvSG1Bsjezg", "universal_uid": "ID5*u1zctxKnzdJGClqkiI7zjyKGX47A0Jft5R2XomWyJdxJGQiikNPeZWzlAgtt2yy-SRoF0ciwu6sRvSG1Bsjezg", "signature": "ID5_As0-3wyr3NQlriYUDQbItibnWhIf68Bnl_UxAe7w3Uk4sNY36lUVdZT-BmLhAY8mJ2YIZwubGICN897Wp_2kwd24fMNd-CM5zGL7Nx7dCstfSTG7kZwzFzQ", "link_type": 0, "cascade_needed": true, "privacy": { "jurisdiction": "other", "id5_consent": true}, "ext": { "linkType": 0}, "cache_control": { "max_age_sec": 7200 }}
+0
+

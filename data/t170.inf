@@ -1,0 +1,15 @@
+[t170]
+FileName1=t170.htm
+URL1=https://steamcommunity.com/
+Total=3
+RequestHeaderFile=t170_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t170_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_170.xml
+FileName2=t170_FontAwesome5Pro-Solid.html
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/FontAwesome5Pro-Solid.ttf
+FileName3=t170_SourceSansPro-Regular.html
+URL3=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/SourceSansPro-Regular.ttf
+[ProtocolInfo]
+ProtocolId=QTWeb

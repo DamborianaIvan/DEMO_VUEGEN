@@ -1,0 +1,11 @@
+[t26]
+FileName1=t26_SourceSansPro-SemiBold.html
+URL1=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/SourceSansPro-SemiBold.ttf
+Total=1
+ContentType=font/ttf
+SnapshotXmlFile=snapshot_26.xml
+RequestHeaderFile=t26_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t26_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

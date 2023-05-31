@@ -1,0 +1,13 @@
+[t158]
+FileName1=t158_list.json
+URL1=https://cdn.unistream.io/option/list?scopeId=PRD_L9FZ
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_158.xml
+RequestHeaderFile=t158_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t158_ResponseHeader.txt
+FileName2=t158_imageUpload.html
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/jslib/tparty/widgets/imageUpload/imageUpload.js
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,4 @@
+"jsondata=%7B%22UserName%22%3A%22U2FsdGVkX1%2B1oRRYOR3mc%2FWKJXce0aO%2BKlOJDbC40rHSb2zIJ1Dxdi0q"
+"KbX1SB8z%22%2C%22idAdherente%22%3A%22%22%2C%22detalle%22%3A%22Clave%20vencida%22%2C%22canal%22"
+"%3A%22WEB%22%2C%22navegador%22%3A%22Chrome%20113%22%2C%22sistemaOperativo%22%3A%22Windows%2010"
+"%22%2C%22geolocalizacion%22%3A%22%22%2C%22versionApp%22%3A%222.71.28%22%7D"

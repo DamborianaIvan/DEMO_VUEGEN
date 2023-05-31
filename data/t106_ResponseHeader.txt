@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+cache-control: private,no-cache,no-store,max-age=0,no-transform
+access-control-allow-headers: X-Kony-SDK-Type,X-Kony-SDK-Version,X-Kony-Platform-Type,X-Kony-DeviceId,X-Kony-ReportingParams,X-Kony-App-Version,X-Kony-RequestId,Origin,Pragma,Access-Control-Allow-Origin,Cache-Control,Content-Type,Accept,If-Modified-Since,Authorization,X-Kony-App-Key,X-Kony-App-Secret,X-HTTP-Method-Override,X-Kony-MFCode,X-Kony-Authorization,X-Kony-Integrity,X-Kony-API-Version,X-Kony-Passthrough
+x-xss-protection: 1
+date: Thu, 11 May 2023 14:04:39 GMT
+access-control-allow-origin: *
+access-control-allow-credentials: true
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-kony-requestid: f7ad4a5b-9236-4eaa-b8d4-c5903ee85f76
+content-length: 2202
+content-type: application/json
+access-control-allow-methods: GET, POST, PUT, DELETE, OPTIONS, HEAD
+access-control-max-age: 1209600
+

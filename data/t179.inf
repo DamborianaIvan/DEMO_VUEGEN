@@ -1,0 +1,13 @@
+[t179]
+FileName1=t179.json
+URL1=https://ncdtesting.bancocredicoop.coop/services/bcclJavaServices/getImages
+Total=2
+RequestHeaderFile=t179_RequestHeader.txt
+RequestBodyFile=t179_RequestBody.txt
+ResponseHeaderFile=t179_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_179.xml
+FileName2=t179_recaptcha__en.html
+URL2=https://www.gstatic.com/recaptcha/releases/wqcyhEwminqmAoT8QO_BkXCr/recaptcha__en.js
+[ProtocolInfo]
+ProtocolId=QTWeb

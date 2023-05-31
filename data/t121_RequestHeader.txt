@@ -1,0 +1,25 @@
+POST /authService/100000002/login?provider=DbxUserLogin HTTP/1.1
+Host: ncdtesting.bancocredicoop.coop
+Connection: keep-alive
+Content-Length: 306
+X-Kony-SDK-Version: 9.2.15
+X-Kony-App-Version: 2.45
+X-Kony-App-Secret: b5fec71b1638b6f6d3099713505994c0
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+X-Kony-Platform-Type: web
+X-Kony-ReportingParams: %7B%22os%22:%22113%22,%22dm%22:%22%22,%22did%22:%2262515AB2-6F2C-4CAD-B396-E8EE90F35AD2%22,%22ua%22:%22Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36%22,%22aid%22:%22NCDBC%22,%22aname%22:%22NCDBC%22,%22chnl%22:%22desktop%22,%22plat%22:%22web%22,%22aver%22:%222.71.28%22,%22atype%22:%22spa%22,%22stype%22:%22b2c%22,%22kuid%22:%22%22,%22mfaid%22:%224237d582-f662-4d83-b6f0-bd96c524dce1%22,%22mfbaseid%22:%22c66355b8-eb0b-4ff6-886b-029b47992a3a%22,%22mfaname%22:%22DbpLocalServices%22,%22sdkversion%22:%229.2.15%22,%22sdktype%22:%22js%22,%22fid%22:%22frmLogin%22,%22sessiontype%22:%22I%22,%22rsid%22:%221683813877186-cc6f-786d-987b%22,%22svcid%22:%22login_DbxUserLogin%22%7D
+X-Kony-App-Key: a46931ab1216413f9addf1533f7d9f57
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+X-Kony-SDK-Type: js
+sec-ch-ua-platform: "Windows"
+Origin: https://ncdtesting.bancocredicoop.coop
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ncdtesting.bancocredicoop.coop/apps/NCDBC/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+

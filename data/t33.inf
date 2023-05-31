@@ -1,0 +1,11 @@
+[t33]
+FileName1=t33.json
+URL1=https://mainnet.infura.io/v3/b8cdb0e4cff24599a286bf8e87ff1c96
+Total=1
+RequestHeaderFile=t33_RequestHeader.txt
+RequestBodyFile=t33_RequestBody.txt
+ResponseHeaderFile=t33_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_33.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

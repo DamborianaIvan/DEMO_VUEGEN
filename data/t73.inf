@@ -1,0 +1,11 @@
+[t73]
+FileName1=t73_image_huella.png
+URL1=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/images/image_huella.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_73.xml
+RequestHeaderFile=t73_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t73_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

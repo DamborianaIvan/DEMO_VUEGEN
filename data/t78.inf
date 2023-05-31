@@ -1,0 +1,11 @@
+[t78]
+FileName1=t78_credicoop_logo.png
+URL1=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/images/credicoop_logo.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_78.xml
+RequestHeaderFile=t78_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t78_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

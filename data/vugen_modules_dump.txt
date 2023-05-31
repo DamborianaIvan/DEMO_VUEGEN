@@ -1,0 +1,462 @@
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\VuGen.exe
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ntdll.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\MSCOREE.DLL
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\KERNEL32.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\KERNELBASE.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\ADVAPI32.dll
+		7.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\msvcrt.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\System32\sechost.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\RPCRT4.dll
+		4.8.4180.0 built by: NET48REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\SHLWAPI.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\kernel.appcore.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\VERSION.dll
+		4.8.4614.0 built by: NET48REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\USER32.dll
+		10.0.19041.2913 (WinBuild.160101.0800)C:\Windows\System32\win32u.dll
+		10.0.19041.2913 (WinBuild.160101.0800)C:\Windows\System32\GDI32.dll
+		10.0.19041.2965 (WinBuild.160101.0800)C:\Windows\System32\gdi32full.dll
+		10.0.19041.789 (WinBuild.160101.0800)C:\Windows\System32\msvcp_win.dll
+		14.10.25028.0 built by: VCTOOLSD15RTMC:\Windows\SYSTEM32\VCRUNTIME140_CLR0400.dll
+		10.0.19041.789 (WinBuild.160101.0800)C:\Windows\System32\ucrtbase.dll
+		14.10.25028.0 built by: VCTOOLSD15RTMC:\Windows\SYSTEM32\ucrtbase_clr0400.dll
+		10.0.19041.2673 (WinBuild.160101.0800)C:\Windows\System32\IMM32.DLL
+		4.8.4614.0 built by: NET48REL1LAST_BC:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\b8b4f2e4a119ba27f271d768ced7e470\mscorlib.ni.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\ole32.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\combase.dll
+		10.0.19041.2486 (WinBuild.160101.0800)C:\Windows\System32\bcryptPrimitives.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\system32\uxtheme.dll
+		4.8.4614.0 built by: NET48REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll
+		10.0.19041.985 (WinBuild.160101.0800)C:\Windows\System32\OLEAUT32.dll
+		4.8.4605.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\System\36798a13542b98319621b3f4a2db175a\System.ni.dll
+		4.8.4390.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\System.Drawing\d6668c47c41eba88f24087131e6c1f8f\System.Drawing.ni.dll
+		4.8.4550.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\System.Windows.Forms\4f1e33a9ca1b59cba78b036106073002\System.Windows.Forms.ni.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\CRYPTSP.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\system32\rsaenh.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\bcrypt.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\CRYPTBASE.dll
+		4.8.4629.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\15d71e315c1713a1a37911c8293a7147\System.Core.ni.dll
+		4.8.4536.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\System.ServiceModel\ab57ea7cc676681cdc62875a1ffbd1c1\System.ServiceModel.ni.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\shell32.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\windows.storage.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\Wldp.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\SHCORE.dll
+		4.8.4190.0 built by: NET48REL1LAST_BC:\Windows\assembly\NativeImages_v4.0.30319_32\System.Configuration\54e274bc31e3cbd89b166fae74fec631\System.Configuration.ni.dll
+		4.8.4084.0 built by: NET48REL1C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml\c075a1598172d8e908ad9b8b1524fda5\System.Xml.ni.dll
+		10.0.19041.844 (WinBuild.160101.0800)C:\Windows\SYSTEM32\profapi.dll
+		5.82 (WinBuild.160101.0800)   C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_c0da534e38c01f4d\comctl32.dll
+		10.0.19041.2251 (WinBuild.160101.0800)C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.2251_none_d9513b1fe1046fc7\gdiplus.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\DWrite.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\MSCTF.dll
+		                              C:\Windows\System32\TextShaping.dll
+		4.8.4629.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\WindowsBase\e9a33fa9afce0835520990cc5e13f5d3\WindowsBase.ni.dll
+		4.8.4629.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\PresentationCore\2dee4a034822f0794e46b066fc02c399\PresentationCore.ni.dll
+		4.8.4629.0                    C:\Windows\assembly\NativeImages_v4.0.30319_32\Presentatio5ae0f00f#\a60dec66dcd8ebfc7824fc8c95bd7d14\PresentationFramework.ni.dll
+		4.8.4629.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xaml\0057946c932aec3332ea4b0f41ee1b26\System.Xaml.ni.dll
+		4.8.4629.0 built by: NET48REL1LAST_CC:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\wpfgfx_v0400.dll
+		14.10.25028.0 built by: VCTOOLSD15RTMC:\Windows\SYSTEM32\MSVCP140_CLR0400.dll
+		4.8.4629.0 built by: NET48REL1LAST_CC:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\PresentationNative_v0400.dll
+		10.0.19041.1706 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WindowsCodecs.dll
+		2.0.12.0                      C:\Windows\assembly\NativeImages_v4.0.30319_32\log4net\330cbe45efd33d5d244ba66a4e886b22\log4net.ni.dll
+		10.0.19041.2913 (WinBuild.160101.0800)C:\Windows\SYSTEM32\textinputframework.dll
+		10.0.19041.546                C:\Windows\System32\CoreUIComponents.dll
+		10.0.19041.2193               C:\Windows\System32\CoreMessaging.dll
+		10.0.19041.1081 (WinBuild.160101.0800)C:\Windows\System32\WS2_32.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ntmarta.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\wintypes.dll
+		6.10 (WinBuild.160101.0800)   C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll
+		2001.12.10941.16384 (WinBuild.160101.0800)C:\Windows\System32\clbcatq.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\RegistryUtil.dll
+		14.32.31332.0                 C:\Windows\SYSTEM32\VCRUNTIME140.dll
+		14.32.31332.0                 C:\Windows\SYSTEM32\mfc140.dll
+		9.0.1.19813                   C:\Windows\assembly\NativeImages_v4.0.30319_32\Newtonsoft.Json\cb38a487ed0c4c1e7e7c2fdb489277ab\Newtonsoft.Json.ni.dll
+		4.8.4084.0 built by: NET48REL1C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Numerics\4aa1ce16f8335bddc141d8b4f11e56be\System.Numerics.ni.dll
+		4.8.4536.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\System.Runteb92aa12#\ddbdb0183c1a65189fd11c47a2456e4f\System.Runtime.Serialization.ni.dll
+		4.8.4084.0 built by: NET48REL1C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml.Linq\d812df891e9efdf520c6b8f4880ee1d7\System.Xml.Linq.ni.dll
+		4.8.4584.0 built by: NET48REL1LAST_BC:\Windows\assembly\NativeImages_v4.0.30319_32\System.Data\116839a3515bd5fe468b994b2360851f\System.Data.ni.dll
+		4.8.4584.0 built by: NET48REL1LAST_BC:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\CRYPT32.dll
+		11.00.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\urlmon.dll
+		10.0.19041.1466 (WinBuild.160101.0800)C:\Windows\SYSTEM32\netutils.dll
+		10.0.19041.1645 (WinBuild.160101.0800)C:\Windows\SYSTEM32\srvcli.dll
+		11.00.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\iertutil.dll
+		10.0.19041.2130 (WinBuild.160101.0800)C:\Windows\SYSTEM32\SspiCli.dll
+		7.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\PROPSYS.dll
+		10.0.19041.2311 (WinBuild.160101.0800)C:\Windows\SYSTEM32\virtdisk.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\FLTLIB.DLL
+		4.8.4261.0 built by: NET48REL1LAST_BC:\Windows\assembly\NativeImages_v4.0.30319_32\System.Security\ead85602fdaed749942d21daa6064986\System.Security.ni.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\system32\IconCodecService.dll
+		4.0.0.0                       C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Pcfd8586c#\54c993090c3e75dad6a8684f77213778\Microsoft.Practices.Prism.ni.dll
+		4.8.4605.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\WindowsForm0b574481#\6a1c6466ab316cdda32687471728bc73\WindowsFormsIntegration.ni.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\DWMAPI.dll
+		10.0.19041.2788 (WinBuild.160101.0800)C:\Windows\SYSTEM32\d3d9.dll
+		31.0.15.3179                  C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_e34a87a86b660c23\nvldumd.dll
+		10.0.19041.2251 (WinBuild.160101.0800)C:\Windows\SYSTEM32\msasn1.dll
+		10.0.19041.906 (WinBuild.160101.0800)C:\Windows\SYSTEM32\cryptnet.dll
+		10.0.19041.2546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\drvstore.dll
+		10.0.19041.1620 (WinBuild.160101.0800)C:\Windows\SYSTEM32\devobj.dll
+		10.0.19041.1620 (WinBuild.160101.0800)C:\Windows\System32\cfgmgr32.dll
+		10.0.19041.2913 (WinBuild.160101.0800)C:\Windows\System32\WINTRUST.DLL
+		10.0.19041.1415 (WinBuild.160101.0800)C:\Windows\System32\imagehlp.dll
+		31.0.15.3179                  C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_e34a87a86b660c23\nvd3dum.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WINMM.dll
+		8.17.10.1697                  C:\Windows\System32\DriverStore\FileRepository\u0373004.inf_amd64_1504ed339c86207a\B371320\aticfx32.dll
+		8.14.01.6564                  C:\Windows\System32\DriverStore\FileRepository\u0373004.inf_amd64_1504ed339c86207a\B371320\atiu9pag.dll
+		9.14.10.01510                 C:\Windows\System32\DriverStore\FileRepository\u0373004.inf_amd64_1504ed339c86207a\B371320\atiumdag.dll
+		10.0.16299.91 (WinBuild.160101.0800)F:\LOADRUNNER23\VUEGEN EJEC\bin\dbghelp.dll
+		10.0.16299.91 (WinBuild.160101.0800)F:\LOADRUNNER23\VUEGEN EJEC\bin\dbgcore.DLL
+		8.14.10.0755                  C:\Windows\System32\DriverStore\FileRepository\u0373004.inf_amd64_1504ed339c86207a\B371320\atiumdva.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\POWRPROF.dll
+		                              C:\Windows\SYSTEM32\UMPDC.dll
+		2,00,00,1788                  C:\Windows\SYSTEM32\amdihk32.dll
+		4.8.4084.0 built by: NET48REL1C:\Windows\assembly\NativeImages_v4.0.30319_32\Presentatioaec034ca#\4e185b1d2853b4b9e9a6824435847735\PresentationFramework.Aero2.ni.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\mscms.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\USERENV.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ColorAdapterClient.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WindowsCodecsExt.dll
+		10.0.19041.1387 (WinBuild.160101.0800)C:\Windows\system32\dataexchange.dll
+		10.0.19041.2913 (WinBuild.160101.0800)C:\Windows\system32\dcomp.dll
+		10.0.19041.2913 (WinBuild.160101.0800)C:\Windows\system32\d3d11.dll
+		10.0.19041.2311 (WinBuild.160101.0800)C:\Windows\system32\dxgi.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\system32\twinapi.appcore.dll
+		1.0.1462.37                   F:\LOADRUNNER23\VUEGEN EJEC\bin\WebView2Loader.dll
+		108.0.1462.46                 F:\LOADRUNNER23\VUEGEN EJEC\bin\WebView2Runtime\EBWebView\x86\EmbeddedBrowserWebView.dll
+		4.8.4494.0 built by: NET48REL1LAST_BC:\Windows\assembly\NativeImages_v4.0.30319_32\System.Web\a90f4856b0d7ca7fc04acc5c5ae51c18\System.Web.ni.dll
+		4.8.4494.0 built by: NET48REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\webengine4.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\PSAPI.DLL
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\system32\mswsock.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\sxs.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\snapshotloaderwrap.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\mosifs32.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\IPHLPAPI.DLL
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\thrdutil.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\wrapicu.dll
+		69, 1, 0, 0                   F:\LOADRUNNER23\VUEGEN EJEC\bin\icuuc69.dll
+		14.32.31332.0                 C:\Windows\SYSTEM32\MSVCP140.dll
+		69, 1, 0, 0                   F:\LOADRUNNER23\VUEGEN EJEC\bin\icudt69.dll
+		4.8.4629.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\UIAutomationProvider\c372a4c593accb041bdfdfe3e5a24477\UIAutomationProvider.ni.dll
+		14.2.3792.0                   F:\LOADRUNNER23\VUEGEN EJEC\bin\ViewerGen.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\atlthunk.dll
+		11.00.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\ieframe.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\WINHTTP.dll
+		10.0.19041.2130 (WinBuild.160101.0800)C:\Windows\System32\NETAPI32.dll
+		10.0.19041.1645 (WinBuild.160101.0800)C:\Windows\System32\WKSCLI.DLL
+		11.00.19041.2965 (WinBuild.160101.0800)C:\Windows\SYSTEM32\msIso.dll
+		11.00.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\mshtml.dll
+		11.00.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\WININET.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\srpapi.dll
+		23.0.0.628                    F:\LOADRUNNER23\VUEGEN EJEC\bin\ielpview.dll
+		23.0.0.628                    F:\LOADRUNNER23\VUEGEN EJEC\bin\AsmHook.dll
+		14.8.4614.0 built by: NET48REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll
+		23.0.0.628                    F:\LOADRUNNER23\VUEGEN EJEC\bin\VirFileSystemMng.dll
+		23.0.0.628                    F:\LOADRUNNER23\VUEGEN EJEC\bin\VirPrivateProfiles.dll
+		4.8.4084.0 built by: NET48REL1C:\Windows\assembly\NativeImages_v4.0.30319_32\Accessibility\db0e8492b84791a013c4cec6a51ac6ba\Accessibility.ni.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\DNSAPI.dll
+		10.0.19041.610 (WinBuild.160101.0800)C:\Windows\System32\NSI.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\rasadhlp.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\fwpuclnt.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\system32\msimtf.dll
+		3.10.349.0                    C:\Windows\System32\msls31.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\d2d1.dll
+		10.0.19041.2788 (WinBuild.160101.0800)C:\Windows\SYSTEM32\d3d10warp.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dxcore.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\Secur32.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\MLANG.dll
+		2012.3.1129.40                C:\Windows\assembly\NativeImages_v4.0.30319_32\Telerik.Win3c69a4be#\02eb175cc56462259a0826b19365dd8e\Telerik.Windows.Controls.Input.ni.dll
+		2012.3.1129.40                C:\Windows\assembly\NativeImages_v4.0.30319_32\Telerik.Win0593e0a6#\160a7bcecef678abbe223d6e9ed28313\Telerik.Windows.Controls.ni.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\MsftEdit.DLL
+		7.2.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\UIAutomationCore.dll
+		4.8.4629.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\UIAutomationTypes\e3e00c2417972661541e595826123f8a\UIAutomationTypes.ni.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\appresolver.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\SLC.dll
+		10.0.19041.1566 (WinBuild.160101.0800)C:\Windows\System32\Bcp47Langs.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\sppc.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\LINKINFO.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ntshrui.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\cscapi.dll
+		10.0.19041.2913 (WinBuild.160101.0800)C:\Windows\SYSTEM32\policymanager.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\msvcp110_win.dll
+		2012.3.1129.40                C:\Windows\assembly\NativeImages_v4.0.30319_32\Telerik.Wine8781abd#\c62e2f4c051343e0c9358212da5ca82a\Telerik.Windows.Controls.GridView.ni.dll
+		2012.3.1129.40                C:\Windows\assembly\NativeImages_v4.0.30319_32\Telerik.Windows.Data\55abd2ca2363867f1e3cf591cb2d1ece\Telerik.Windows.Data.ni.dll
+		2012.3.1129.40                C:\Windows\assembly\NativeImages_v4.0.30319_32\Telerik.Win8d90dfc2#\5d310bc4f7f76cb23728fe60f929f7fa\Telerik.Windows.Controls.Navigation.ni.dll
+		2.0.20525.0                   C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Windc7c43db6#\9b4d847d8ce12547a158de6a4b91967f\System.Windows.Interactivity.ni.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\wtsapi32.dll
+		10.0.19041.2075 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WINSTA.dll
+		3.27.0.112                    C:\Windows\system32\nvspcap.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\gpapi.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\system32\msctfui.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\rasapi32.dll
+		10.0.19041.1949 (WinBuild.160101.0800)C:\Windows\SYSTEM32\rasman.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\rtutils.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dhcpcsvc6.DLL
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dhcpcsvc.DLL
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WINNSI.DLL
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\D3DCOMPILER_47.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\system32\explorerframe.dll
+		10.0.19041.1708 (WinBuild.160101.0800)C:\Windows\System32\Windows.Globalization.dll
+		10.0.19041.1503 (WinBuild.160101.0800)C:\Windows\System32\bcp47mrm.dll
+		10.0.19041.1806 (WinBuild.160101.0800)C:\Windows\SYSTEM32\globinputhost.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\schannel.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\mskeyprotect.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\NTASN1.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ncrypt.dll
+		10.0.19041.2846 (WinBuild.160101.0800)C:\Windows\system32\ncryptsslp.dll
+		2023.0.0.151                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrTcBrowserCommonUtils.dll
+		2023.0.0.151                  F:\LOADRUNNER23\VUEGEN EJEC\bin\TcPlatformAmbianceService.dll
+		2023.0.0.151                  F:\LOADRUNNER23\VUEGEN EJEC\bin\TcPlatformCommonUtils.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\config.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\mlib_ds.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\msg_handler.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\wrapzlib.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\xdr.dll
+		1.2.13                        F:\LOADRUNNER23\VUEGEN EJEC\bin\zlib.dll
+		4.8.4084.0 built by: NET48REL1C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Build\4f250182561c2bd6533bdb6198be96b1\Microsoft.Build.ni.dll
+		4.8.4084.0 built by: NET48REL1C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.B3325a29b#\c19eeaaf3b1813e3fa8d630e045f8645\Microsoft.Build.Framework.ni.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\ArchiveManager.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\coparamui.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\paramui.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\MPR.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\PathResolver.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\dtable32.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\parameng.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\is32.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\lr_vug32.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\libxdrutil.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\run_time_context.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\runlogic.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\inifile.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\vusercfg.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\MultiVuser.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\rtc_protocol.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\comm_util.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\paramlr.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\paramtbl.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\mmdtable.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\mmdbigtable.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\libmemmap.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\paramcst.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\paramunq.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\paramfnc.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\paramss.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\paramdte.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\paramvar.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\paramrnd.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\runlogicview.ocx
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\ParamUINotification.dll
+		7.2.19041.746 (WinBuild.160101.0800)C:\Windows\SYSTEM32\oleacc.dll
+		0.28.4                        F:\LOADRUNNER23\VUEGEN EJEC\bin\lib\win32\x86\git2-106a5f2.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\lrscripthandler.DLL
+		4.8.4084.0                    C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.CSharp\0f8f566f6dea6f8fba71160154742b3c\Microsoft.CSharp.ni.dll
+		4.8.4084.0                    C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Dynamic\8a21b7cf8000419fbf075d3637669a36\System.Dynamic.ni.dll
+		8.3.20083.1009                C:\Windows\assembly\NativeImages_v4.0.30319_32\Infragistic827215cc#\9fbfd6df89fe216ac4d4aacba9f1516d\Infragistics2.Win.UltraWinExplorerBar.v8.3.ni.dll
+		8.3.20083.1009                C:\Windows\assembly\NativeImages_v4.0.30319_32\Infragisticffd41f6f#\5fe9c8e7acad851da03d1ef5dffa89e6\Infragistics2.Shared.v8.3.ni.dll
+		8.3.20083.1009                C:\Windows\assembly\NativeImages_v4.0.30319_32\Infragistic47503776#\36e413adfe77a408f9cbce10d599bb37\Infragistics2.Win.v8.3.ni.dll
+		10.0.0.0                      C:\Windows\assembly\NativeImages_v4.0.30319_32\LogicNP.FileView\f3c2158421feff11df56869c9d47b37d\LogicNP.FileView.ni.dll
+		10.0.0.0                      C:\Windows\assembly\NativeImages_v4.0.30319_32\LogicNP.ShComboBox\30b1b6c2542c34252cb4887a3ffac43e\LogicNP.ShComboBox.ni.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\thumbcache.dll
+		10.0.19041.1466 (WinBuild.160101.0800)C:\Windows\SYSTEM32\samcli.dll
+		10.0.19041.2788 (WinBuild.160101.0800)C:\Windows\SYSTEM32\SAMLIB.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\apphelp.dll
+		23.081.0416.0001              C:\Program Files\Microsoft OneDrive\23.081.0416.0001\i386\FileSyncShell.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\HP.LR.VuGen.VugenIconOverlayHandler.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\drprov.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\ntlanman.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\davclnt.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\DAVHLPR.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\dlnashext.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\DevDispItemProvider.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\system32\wpdshext.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\PortableDeviceApi.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\SETUPAPI.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\System32\PortableDeviceTypes.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\system32\audiodev.dll
+		12.0.19041.1 (WinBuild.160101.0800)C:\Windows\system32\WMVCore.DLL
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\system32\mfperfhelper.dll
+		12.0.19041.1 (WinBuild.160101.0800)C:\Windows\system32\WMASF.DLL
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\System32\Windows.FileExplorer.Common.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\HP.LR.VuGen.ScriptHandlerComWrapper.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\webscripthandler.DLL
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebStepClsDesign.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebStepClsShared.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\mshtmtr.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\wraplwcrypto.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\DynWininet.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrXmlScriptHandler.DLL
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\ReplayBinaryUtils32.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WSOCK32.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\websteps_scripthandler.DLL
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\base_scripthandler.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\RICHED32.DLL
+		5.31.23.1231                  C:\Windows\SYSTEM32\RICHED20.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\USP10.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebUIRes.DLL
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\webservice_scripthandler.DLL
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WSDLSDK.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\ServiceManagementLight.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebServicesSDK.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WsJniUtil.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\XmlParserInterface.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WSDLUtilsU.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WSDLParser.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\SoapRecordFilter.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WsCommonLogger.dll
+		                              F:\LOADRUNNER23\VUEGEN EJEC\bin\java_search.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WSDLToolkits.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\MicXMLDiffTool.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\mic_regex.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\HttpUtils.dll
+		1, 12, 0, 0                   F:\LOADRUNNER23\VUEGEN EJEC\bin\Xalan-C_1_12.dll
+		                              F:\LOADRUNNER23\VUEGEN EJEC\bin\xerces-c_3_2.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\ConfigurationUtil.dll
+		1, 12, 0, 0                   F:\LOADRUNNER23\VUEGEN EJEC\bin\XalanMessages_1_12.dll
+		69, 1, 0, 0                   F:\LOADRUNNER23\VUEGEN EJEC\bin\icuin69.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\soap_scripthandler.DLL
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebObjects4Vugen.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwScriptApi.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\faserver.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\ExtInfra.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwCs.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\trans.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwiWebInfra.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwLogicMgr.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwUtil.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\lrun50.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwObjMgr.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwSrvNet.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\lr_exp.dll
+		                              F:\LOADRUNNER23\VUEGEN EJEC\bin\vm.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\trans_server.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\data_types_ifs.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\libdatatypes.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\ipng_utils.dll
+		                              F:\LOADRUNNER23\VUEGEN EJEC\bin\duktape.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrXml.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\VnpUtils.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\http_auth.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\DataFormatsEngine.dll
+		                              F:\LOADRUNNER23\VUEGEN EJEC\bin\pcre-8.44.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwSnapshotsWriter.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrJson.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwJsForTransport.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwJsw.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\DomFactory.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwiStreamingParser.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwReport.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\jsext.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwiHtmlParser.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\merc_uuid.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\JScriptEngine.dll
+		                              F:\LOADRUNNER23\VUEGEN EJEC\bin\boost_filesystem-vc143-mt-x32-1_81.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\timediff_ext.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\jrequestor_srv.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\dc_requests.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwWebSocketEngine.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\VnpReport.dll
+		3.0.7                         F:\LOADRUNNER23\VUEGEN EJEC\bin\libcrypto-lt-3.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebSnapshotsCommon.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\JSHostedEnvironment.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\JsonParser.dll
+		                              F:\LOADRUNNER23\VUEGEN EJEC\bin\boost_system-vc140-mt-1_60.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwReplayMain.dll
+		                              F:\LOADRUNNER23\VUEGEN EJEC\bin\boost_filesystem-vc140-mt-1_60.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\driver.dll
+		                              F:\LOADRUNNER23\VUEGEN EJEC\bin\boost_thread-vc143-mt-x32-1_81.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\InternetProtocolHttpEngine.DLL
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\jconv_str.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwSAPScriptApi.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwiAed.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LrwSAPLogicMgr.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\libresponse.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\cyclic_ds.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\launcher.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\mlogger.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\two_way_comm.dll
+		                              F:\LOADRUNNER23\VUEGEN EJEC\bin\mozjs.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\hook_installer.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\libtpq.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\libgd.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\mchan.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\leader_election.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\libpvc.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\key_storage.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\mictime.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\security_protocols.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\security_encryption.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\key_handler.dll
+		                              F:\LOADRUNNER23\VUEGEN EJEC\bin\librdkafkacpp.dll
+		4.16                          F:\LOADRUNNER23\VUEGEN EJEC\bin\nspr4.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\key_repository.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\cert.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\lwc_cryptolib.dll
+		                              F:\LOADRUNNER23\VUEGEN EJEC\bin\librdkafka.dll
+		4.50.000                      F:\LOADRUNNER23\VUEGEN EJEC\bin\bugslayerutil.dll
+		4.8.4084.0                    C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Comp46f2b404#\34fbcab5f6091ea33d9e188b500b3e3a\System.ComponentModel.DataAnnotations.ni.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\SYSTEM32\icm32.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\vugen_record_api.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\insp_gen.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\inspdll.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\pefile.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\HTTPSnapshotsWrapper.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\api_scrinfo.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\script_language_helper.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\Api_Filter_Helper.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\unknown_only_helper.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\type_info_pool.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\traffic_filter.dll
+		3.0.7                         F:\LOADRUNNER23\VUEGEN EJEC\bin\libssl-lt-3.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\CodeGenerationAPI.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\InternalSDKUtils.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\LRSDKUtilities.dll
+		                              F:\LOADRUNNER23\VUEGEN EJEC\bin\WebEventTrafficMap.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\threadsafefileoperator.dll
+		23.0.0.628                    F:\LOADRUNNER23\VUEGEN EJEC\bin\TulipAppInfo.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\HP.LR.VuGen.LrVugHelper.dll
+		1.11.0                        C:\Windows\assembly\NativeImages_v4.0.30319_32\DotNetZip\3492ec7e0b0a9211897683b57f409f1d\DotNetZip.ni.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\TextContainer.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\coml2.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\JsonParserWrapper.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\MicSocket.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\twinapi.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\SYSTEM32\edputil.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\rtsxdlg.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\comrec_tab.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\tlb_query.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\xmlstorage.dll
+		8.110.19041.844               C:\Windows\System32\msxml3.dll
+		4.1 (32-bit)                  C:\Program Files\WinZip\wzshlstb.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\VuGenCallback.dll
+		2                             C:\Windows\System32\ShellHook.dll
+		4.8.4536.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\SMDiagnostics\ed4d0cc484b94a1fb6f83cee24169ff0\SMDiagnostics.ni.dll
+		4.8.4536.0 built by: NET48REL1LAST_CC:\Windows\assembly\NativeImages_v4.0.30319_32\System.Servd1dec626#\fc25e5ce04f5b7ff7848cbdf1b01ecd1\System.ServiceModel.Internals.ni.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\Windows.ApplicationModel.dll
+		4.8.4084.0 built by: NET48REL1C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Transactions\eb92c7349e380c71cc5e4893ac894935\System.Transactions.ni.dll
+		4.8.4084.0 built by: NET48REL1C:\Windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll
+		23.0.0.628                    F:\LOADRUNNER23\VUEGEN EJEC\bin\SSFMgrWrapper.dll
+		23.0.0.628                    F:\LOADRUNNER23\VUEGEN EJEC\bin\RealFileSystem.dll
+		10.0.19041.2311 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ondemandconnroutehelper.dll
+		11.00.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\jscript9.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\DPAPI.DLL
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\webio.dll
+		2023.0.0.65                   F:\LOADRUNNER23\VUEGEN EJEC\bin\merclistentry.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\api_inspector.dll
+		10.0.19041.2845 (WinBuild.160101.0800)C:\Windows\System32\COMDLG32.dll
+		2023.0.0.152                  F:\LOADRUNNER23\VUEGEN EJEC\bin\trpfnc32.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\lrc_basic_filters.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\api_event_parser.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\api_sock_filter.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebDataFormatsCodeGen.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebSocketFilter.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\VnpLog.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebHTMLCodeGen.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebRecorder.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebCorrelation.dll
+		2.9.0                         F:\LOADRUNNER23\VUEGEN EJEC\bin\cpprest140_2_9.dll
+		14.32.31332.0                 C:\Windows\SYSTEM32\CONCRT140.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\HTTPAPI.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebConvertFromFormattedFilter.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebConvertFromFormattedPostFilter.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebExtractServerNameFilter.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\lrc_com_filters.dll
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\WebRemoveLongBodyFilter.DLL
+		2023.0.0.506                  F:\LOADRUNNER23\VUEGEN EJEC\bin\lrc_code_gen_filter.dll

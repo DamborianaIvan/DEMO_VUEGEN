@@ -1,0 +1,19 @@
+GET /interaction/list/filtered?filterSet=%7B%22client%22%3A%7B%22version%22%3A%225.2.6%22%7D%2C%22geo%22%3A%7B%22cityName%22%3A%22Tandil%22%2C%22country%22%3A%22AR%22%2C%22latitude%22%3A-37.3154%2C%22longitude%22%3A-59.1579%2C%22zip%22%3A%227000%22%7D%7D&scopeId=PRD_L9FZ HTTP/1.1
+Host: cdn.unistream.io
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+unistream-filter-signature: $client.version:5.2.6$geo.country:AR$state:undefined
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+property-id: UNI-H84HA
+unistream-filter-set: {"client":{"version":"5.2.6"},"geo":{"cityName":"Tandil","country":"AR","latitude":-37.3154,"longitude":-59.1579,"zip":"7000"}}
+unistream-scope: PRD_L9FZ
+unistream-uuid: 183c30ca-0423-498a-a803-fb9008dfb0c4
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es;q=0.8
+

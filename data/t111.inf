@@ -1,0 +1,11 @@
+[t111]
+FileName1=t111_properties.json
+URL1=https://ncdtesting.bancocredicoop.coop/services/metadata/configurations/client/properties
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_111.xml
+RequestHeaderFile=t111_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t111_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

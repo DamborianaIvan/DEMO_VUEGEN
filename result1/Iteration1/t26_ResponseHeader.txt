@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+cache-control: no-store, no-cache, must-revalidate
+x-kony-service-message: 
+x-xss-protection: 1
+pragma: no-cache
+date: Wed, 31 May 2023 14:13:04 GMT
+access-control-allow-origin: *
+x-kony-service-opstatus: 0
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-kony-requestid: a2f9128b-7b6b-49ca-8448-b2c96eff2d70
+content-length: 850184
+content-type: application/json; charset=UTF-8
+access-control-allow-methods: GET, HEAD, POST, TRACE, OPTIONS, PUT, DELETE, PATCH
+

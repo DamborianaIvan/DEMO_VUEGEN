@@ -1,0 +1,11 @@
+[t20]
+FileName1=t20_FontAwesome5Pro-Solid.html
+URL1=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/FontAwesome5Pro-Solid.ttf
+Total=1
+ContentType=font/ttf
+SnapshotXmlFile=snapshot_20.xml
+RequestHeaderFile=t20_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t20_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

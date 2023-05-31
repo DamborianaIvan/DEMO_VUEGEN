@@ -1,0 +1,13 @@
+[t116]
+FileName1=t116_DynamicContentDbp.json
+URL1=https://ncdtesting.bancocredicoop.coop/services/metadata/v1/RBObjects/DynamicContentDbp
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_116.xml
+RequestHeaderFile=t116_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t116_ResponseHeader.txt
+FileName2=t116_imgload.gif
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/images/imgload.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,20 @@
+[t14]
+FileName2=t8_2_exceptionrules.html
+RawStepEndTime=1685542379275
+FileName4=t1_0_device-desc.xml
+RequestBodyFile=t14_RequestBody.txt
+RawStepName=b8cdb0e4cff24599a286bf8e87ff1c96_9
+ContentType=application/json
+URL1=https://mainnet.infura.io/v3/b8cdb0e4cff24599a286bf8e87ff1c96
+URL2=https://easylist-downloads.adblockplus.org/exceptionrules.txt?addonName=adblockchrome&addonVersion=5.6.0&application=chrome&applicationVersion=113.0.0.0&platform=chromium&platformVersion=113.0.0.0&lastVersion=202305101540&downloadCount=4+&disabled=false&manifestVersion=2&firstVersion=202302
+URL3=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/455133105/desktopweb/jslib/tparty/widgets/imageUpload/imageUpload.js
+ResponseHeaderFile=t14_ResponseHeader.txt
+URL4=http://192.168.0.16:8008/ssdp/device-desc.xml
+SnapshotXmlFile=snapshot_14.xml
+RequestHeaderFile=t14_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1685542378849
+Total=4
+StepName=Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_9
+FileName1=t14.json
+FileName3=t1_1_imageUpload.js

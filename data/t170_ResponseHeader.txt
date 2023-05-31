@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src blob: data: https: 'unsafe-inline' 'unsafe-eval'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://community.akamai.steamstatic.com/ https://cdn.akamai.steamstatic.com/steamcommunity/public/assets/ https://api.steampowered.com/ *.google-analytics.com https://www.google.com https://www.gstatic.com https://apis.google.com https://recaptcha.net https://www.gstatic.cn/recaptcha/ https://www.youtube.com/ https://s.ytimg.com; object-src 'none'; connect-src 'self' https://community.akamai.steamstatic.com/ https://store.steampowered.com/ wss://community.steam-api.com/websocket/ https://api.steampowered.com/ https://login.steampowered.com/ https://help.steampowered.com/ *.google-analytics.com https://*.valvesoftware.com https://*.steambeta.net https://*.steamcontent.com https://steambroadcast.akamaized.net https://steambroadcast-test.akamaized.net https://broadcast.st.dl.eccdnx.com https://lv.queniujq.cn https://steambroadcastchat.akamaized.net http://127.0.0.1:27060 ws://127.0.0.1:27060 https://steamvideo-a.akamaihd.net/; frame-src 'self' steam: https://store.steampowered.com/ https://help.steampowered.com/ https://login.steampowered.com/ https://www.youtube.com https://www.google.com https://sketchfab.com https://player.vimeo.com https://medal.tv https://www.google.com/recaptcha/ https://recaptcha.net/recaptcha/; frame-ancestors 'self' https://steamloopback.host ;
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-cache
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Content-Length: 8687
+Date: Thu, 11 May 2023 15:02:12 GMT
+Connection: keep-alive
+Set-Cookie: sessionid=0d9ed38be4963908b294c7e2; Path=/; Secure; SameSite=None
+Set-Cookie: steamCountry=AR%7Cdc8d0a0ece912e008fd09dd451cc21a5; Path=/; Secure; HttpOnly; SameSite=None
+

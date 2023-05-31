@@ -1,0 +1,11 @@
+[t103]
+FileName1=t103.json
+URL1=https://mainnet.infura.io/v3/b8cdb0e4cff24599a286bf8e87ff1c96
+Total=1
+RequestHeaderFile=t103_RequestHeader.txt
+RequestBodyFile=t103_RequestBody.txt
+ResponseHeaderFile=t103_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_103.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

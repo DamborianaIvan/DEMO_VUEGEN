@@ -1,0 +1,2 @@
+"jsondata=%7B%22languageCode%22%3A%22es-ES%22%2C%22termsAndConditionsCode%22%3A%22TyC_Aceptar_C"
+"ookies%22%7D"

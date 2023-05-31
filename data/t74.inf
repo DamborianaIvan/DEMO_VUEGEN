@@ -1,0 +1,11 @@
+[t74]
+FileName1=t74_chrome_128x128.png
+URL1=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/images/chrome_128x128.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_74.xml
+RequestHeaderFile=t74_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t74_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

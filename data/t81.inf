@@ -1,0 +1,11 @@
+[t81]
+FileName1=t81.htm
+URL1=https://ncdtesting.bancocredicoop.coop/services/data/v1/RBObjects/operations/DynamicContentDbp/getDynamicContent
+Total=1
+RequestHeaderFile=t81_RequestHeader.txt
+RequestBodyFile=t81_RequestBody.txt
+ResponseHeaderFile=t81_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_81.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

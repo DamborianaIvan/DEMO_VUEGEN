@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+cache-control: private,no-cache,no-store,max-age=0,no-transform
+x-xss-protection: 1
+date: Wed, 31 May 2023 14:13:11 GMT
+access-control-allow-origin: *
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-kony-requestid: 8720439e-7e33-4431-84e8-9fcec7ab2d6b
+content-type: application/json; charset=UTF-8
+content-length: 142
+access-control-allow-methods: GET, HEAD, POST, TRACE, OPTIONS, PUT, DELETE, PATCH
+

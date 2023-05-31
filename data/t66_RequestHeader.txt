@@ -1,0 +1,23 @@
+POST /services/data/v1/RBObjects/operations/TermsAndConditions/getCustomerTermsAndConditionsPreLoginBccl HTTP/1.1
+Host: ncdtesting.bancocredicoop.coop
+Connection: keep-alive
+Content-Length: 106
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+X-Kony-API-Version: 2.0
+X-Kony-ReportingParams: %7B%22os%22:%22113%22,%22dm%22:%22%22,%22did%22:%22678CEE07-93D6-4A03-B34C-76145B312AE7%22,%22ua%22:%22Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36%22,%22aid%22:%22NCDBC%22,%22aname%22:%22NCDBC%22,%22chnl%22:%22desktop%22,%22plat%22:%22web%22,%22aver%22:%222.71.28%22,%22atype%22:%22spa%22,%22stype%22:%22b2c%22,%22kuid%22:%22%22,%22mfaid%22:%224237d582-f662-4d83-b6f0-bd96c524dce1%22,%22mfbaseid%22:%22c66355b8-eb0b-4ff6-886b-029b47992a3a%22,%22mfaname%22:%22DbpLocalServices%22,%22sdkversion%22:%229.2.15%22,%22sdktype%22:%22js%22,%22fid%22:%22frmLogin%22,%22sessiontype%22:%22I%22,%22rsid%22:%221683812985460-e6a5-ed93-46cf%22,%22svcid%22:%22TermsAndConditions%22%7D
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+X-Kony-DeviceId: 678CEE07-93D6-4A03-B34C-76145B312AE7
+Content-Type: application/json
+Accept: application/json
+X-Kony-Authorization: eyAidHlwIjogImp3dCIsICJhbGciOiAiUlMyNTYiIH0.eyAiX3ZlciI6ICJ2MS4xIiwgImlzcyI6ICJodHRwOi8vc2JpbjIxMDJseC5iYW5jb2NyZWRpY29vcC5jb29wOjgwODAvYXV0aFNlcnZpY2UvMTAwMDAwMDAyIiwgIl9zY29wZSI6ICJnIiwgIl9pc3NtZXRhIjogIi9tZXRhZGF0YS80NlBhWFJjMXRSeExoeXFPaldxd2lRPT0iLCAiX2FwcCI6ICI0MjM3ZDU4Mi1mNjYyLTRkODMtYjZmMC1iZDk2YzUyNGRjZTEiLCAiX3Nlc3Npb25faWQiOiAiNDQ4YmYyNmItMjEyNi00OWUyLWIxMzYtOWYyZmFmMmU4Y2NhIiwgIl9wdWlkIjogMywgIl9pZHAiOiAiIiwgImV4cCI6IDE2ODM4MTQxODgsICJpYXQiOiAxNjgzODEyOTg4LCAiX3Nlc3Npb25fdGlkIjogIjEwMDAwMDAwMiIsICJfcHJvdl91c2VyaWQiOiAiYW5vbnltb3VzIiwgImp0aSI6ICJmMDIyZjY0MC02YTNkLTRkZDItYTI2ZS03MTkyN2QzMTA1NGQiLCAiX2FjcyI6ICIxMDAwMDAwMDIiIH0.eB81qaYtpU-Qk4Htley9mvghrzXSoYs-cZc1jEs3xC-9Y4DAWMtqQI4HVeTvV2uLCRststZIuEZ0gaT-kB4HDLwT4iWtq6E5Qo7iAuz21hIZK2aZTy62HLrffSdUWrbxZMVNczXNrGSPGQoTC2cI-8FtVZESv9Fgyy5p4_RhQMrNxxtuGMQ2oLhRtL_d8-utgaL7co1cZjowTaxo0EqMB73QqJYygBEytGebSfwi-5whFAGN6HXo5lTDXwE4jQuONa7dVbMoZSZOzQ-IdhzoJLqQSwO9oQip0Fs3EI3mz1xhnf3pz3YaR-PQrRpReaWQlm56GaJ7apQfThOpxSW_gA
+sec-ch-ua-platform: "Windows"
+Origin: https://ncdtesting.bancocredicoop.coop
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ncdtesting.bancocredicoop.coop/apps/NCDBC/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: JSESSIONID=zH888mS3RlZgVhchVrHBvDO90J2MCB7WA5j0zvni.sbin2102lx
+

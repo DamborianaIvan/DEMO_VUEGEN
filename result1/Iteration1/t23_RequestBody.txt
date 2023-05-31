@@ -1,0 +1,2 @@
+"jsondata=%7B%22AppVersion%22%3A%222.71.28%22%2C%22OSType%22%3A%22thinclient%22%2C%22OSversion%"
+"22%3A%22113%22%7D"

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Ivan\Documents\VuGen\Scripts\LoginNCD
+-IF:\LR21\include
+-ec:\users\ivan\documents\vugen\scripts\loginncd\\logfile.log
+c:\users\ivan\documents\vugen\scripts\loginncd\\combined_LoginNCD.c
+c:\users\ivan\documents\vugen\scripts\loginncd\\pre_cci.c

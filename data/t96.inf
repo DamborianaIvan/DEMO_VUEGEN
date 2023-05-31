@@ -1,0 +1,11 @@
+[t96]
+FileName1=t96.json
+URL1=https://mainnet.infura.io/v3/b8cdb0e4cff24599a286bf8e87ff1c96
+Total=1
+RequestHeaderFile=t96_RequestHeader.txt
+RequestBodyFile=t96_RequestBody.txt
+ResponseHeaderFile=t96_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_96.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

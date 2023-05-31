@@ -1,0 +1,15 @@
+[t109]
+FileName1=t109.json
+URL1=https://ncdtesting.bancocredicoop.coop/services/data/v1/RBObjects/objects/Application
+Total=3
+RequestHeaderFile=t109_RequestHeader.txt
+RequestBodyFile=t109_RequestBody.txt
+ResponseHeaderFile=t109_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_109.xml
+FileName2=t109_frmAccountsLanding.html
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/appjs/AccountsModule/frmAccountsLanding.js
+FileName3=t109_frmAccountsLandingController.html
+URL3=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/appjs/AccountsModule/frmAccountsLandingController.js
+[ProtocolInfo]
+ProtocolId=QTWeb

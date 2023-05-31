@@ -1,0 +1,17 @@
+[t97]
+FileName1=t97.json
+URL1=https://mainnet.infura.io/v3/b8cdb0e4cff24599a286bf8e87ff1c96
+Total=4
+RequestHeaderFile=t97_RequestHeader.txt
+RequestBodyFile=t97_RequestBody.txt
+ResponseHeaderFile=t97_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_97.xml
+FileName2=t97_FontAwesome5Pro-Light.html
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/FontAwesome5Pro-Light.ttf
+FileName3=t97_FontAwesome5Pro-Regular.html
+URL3=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/FontAwesome5Pro-Regular.ttf
+FileName4=t97_FontAwesome5Pro-Solid.html
+URL4=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/FontAwesome5Pro-Solid.ttf
+[ProtocolInfo]
+ProtocolId=QTWeb

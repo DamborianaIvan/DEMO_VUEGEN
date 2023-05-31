@@ -1,0 +1,388 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: NCDBC",
+                "infFile": "t1.inf",
+                "time": 1685542370685
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: token",
+                "infFile": "t3.inf",
+                "time": 1685542371490
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: list",
+                "infFile": "t4.inf",
+                "time": 1685542371743
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96",
+                "infFile": "t5.inf",
+                "time": 1685542372805
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: filtered",
+                "infFile": "t6.inf",
+                "time": 1685542372956
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_2",
+                "infFile": "t7.inf",
+                "time": 1685542373435
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_3",
+                "infFile": "t8.inf",
+                "time": 1685542376470
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_4",
+                "infFile": "t9.inf",
+                "time": 1685542377013
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_5",
+                "infFile": "t10.inf",
+                "time": 1685542377476
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_6",
+                "infFile": "t11.inf",
+                "time": 1685542377919
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_7",
+                "infFile": "t12.inf",
+                "time": 1685542378379
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_8",
+                "infFile": "t13.inf",
+                "time": 1685542378830
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_9",
+                "infFile": "t14.inf",
+                "time": 1685542379289
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Url: steamcommunity.com",
+                "infFile": "t15.inf",
+                "time": 1685542380621
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_10",
+                "infFile": "t16.inf",
+                "time": 1685542381108
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_11",
+                "infFile": "t17.inf",
+                "time": 1685542381572
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Submit Data: login",
+                "infFile": "t19.inf",
+                "time": 1685542381899
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Custom Request: appconfig",
+                "infFile": "t21.inf",
+                "time": 1685542382110
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Custom Request: IST",
+                "infFile": "t22.inf",
+                "time": 1685542382246
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Custom Request: Application",
+                "infFile": "t23.inf",
+                "time": 1685542382654
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Url: properties",
+                "infFile": "t24.inf",
+                "time": 1685542382726
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Custom Request: IdentityManagement",
+                "infFile": "t25.inf",
+                "time": 1685542382862
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Submit Data: getImages",
+                "infFile": "t26.inf",
+                "time": 1685542383367
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Custom Request: getPasswordRulesAndPolicy",
+                "infFile": "t27.inf",
+                "time": 1685542383491
+            },
+            {
+                "stepId": "STEP25",
+                "stepName": "Submit Data: BcclConfiguration",
+                "infFile": "t28.inf",
+                "time": 1685542383579
+            },
+            {
+                "stepId": "STEP26",
+                "stepName": "Custom Request: DynamicContentDbp",
+                "infFile": "t29.inf",
+                "time": 1685542383691
+            },
+            {
+                "stepId": "STEP27",
+                "stepName": "Custom Request: getCustomerTermsAndConditionsPreLoginBccl",
+                "infFile": "t30.inf",
+                "time": 1685542384097
+            },
+            {
+                "stepId": "STEP28",
+                "stepName": "Custom Request: Parametros",
+                "infFile": "t31.inf",
+                "time": 1685542384185
+            },
+            {
+                "stepId": "STEP29",
+                "stepName": "Custom Request: getDynamicContent",
+                "infFile": "t32.inf",
+                "time": 1685542384320
+            },
+            {
+                "stepId": "STEP30",
+                "stepName": "Custom Request: getParametros",
+                "infFile": "t33.inf",
+                "time": 1685542384736
+            },
+            {
+                "stepId": "STEP31",
+                "stepName": "Submit Data: login_2",
+                "infFile": "t35.inf",
+                "time": 1685542385430
+            },
+            {
+                "stepId": "STEP32",
+                "stepName": "Custom Request: appconfig_2",
+                "infFile": "t36.inf",
+                "time": 1685542385598
+            },
+            {
+                "stepId": "STEP33",
+                "stepName": "Custom Request: getOperadores",
+                "infFile": "t37.inf",
+                "time": 1685542386061
+            },
+            {
+                "stepId": "STEP34",
+                "stepName": "Custom Request: SegundoFactor",
+                "infFile": "t38.inf",
+                "time": 1685542386150
+            },
+            {
+                "stepId": "STEP35",
+                "stepName": "Submit Data: BcclConfiguration_2",
+                "infFile": "t39.inf",
+                "time": 1685542386295
+            },
+            {
+                "stepId": "STEP36",
+                "stepName": "Custom Request: User",
+                "infFile": "t40.inf",
+                "time": 1685542386435
+            },
+            {
+                "stepId": "STEP37",
+                "stepName": "Submit Data: getImages_2",
+                "infFile": "t41.inf",
+                "time": 1685542386696
+            },
+            {
+                "stepId": "STEP38",
+                "stepName": "Custom Request: ServicesPay",
+                "infFile": "t42.inf",
+                "time": 1685542386803
+            },
+            {
+                "stepId": "STEP39",
+                "stepName": "Custom Request: SegundoFactor_2",
+                "infFile": "t43.inf",
+                "time": 1685542386887
+            },
+            {
+                "stepId": "STEP40",
+                "stepName": "Custom Request: Operations",
+                "infFile": "t44.inf",
+                "time": 1685542386967
+            },
+            {
+                "stepId": "STEP41",
+                "stepName": "Custom Request: Investments",
+                "infFile": "t45.inf",
+                "time": 1685542387053
+            },
+            {
+                "stepId": "STEP42",
+                "stepName": "Custom Request: getTarjetasCredito",
+                "infFile": "t46.inf",
+                "time": 1685542387218
+            },
+            {
+                "stepId": "STEP43",
+                "stepName": "Custom Request: ClaveMovil",
+                "infFile": "t47.inf",
+                "time": 1685542387301
+            },
+            {
+                "stepId": "STEP44",
+                "stepName": "Custom Request: getTarjetasCredito_2",
+                "infFile": "t48.inf",
+                "time": 1685542387446
+            },
+            {
+                "stepId": "STEP45",
+                "stepName": "Custom Request: getPasswordLockoutSettings",
+                "infFile": "t49.inf",
+                "time": 1685542387632
+            },
+            {
+                "stepId": "STEP46",
+                "stepName": "Custom Request: getUnreadNotificationCount",
+                "infFile": "t50.inf",
+                "time": 1685542387726
+            },
+            {
+                "stepId": "STEP47",
+                "stepName": "Custom Request: Notifications",
+                "infFile": "t51.inf",
+                "time": 1685542387849
+            },
+            {
+                "stepId": "STEP48",
+                "stepName": "Custom Request: getAccountsListBccl",
+                "infFile": "t52.inf",
+                "time": 1685542387984
+            },
+            {
+                "stepId": "STEP49",
+                "stepName": "Custom Request: Parametros_2",
+                "infFile": "t53.inf",
+                "time": 1685542388065
+            },
+            {
+                "stepId": "STEP50",
+                "stepName": "Custom Request: Parametros_3",
+                "infFile": "t54.inf",
+                "time": 1685542388126
+            },
+            {
+                "stepId": "STEP51",
+                "stepName": "Custom Request: getUserProfileImage",
+                "infFile": "t55.inf",
+                "time": 1685542388233
+            },
+            {
+                "stepId": "STEP52",
+                "stepName": "Custom Request: getUserProfileImage_2",
+                "infFile": "t56.inf",
+                "time": 1685542388304
+            },
+            {
+                "stepId": "STEP53",
+                "stepName": "Custom Request: CMS",
+                "infFile": "t57.inf",
+                "time": 1685542388597
+            },
+            {
+                "stepId": "STEP54",
+                "stepName": "Custom Request: getFiltros",
+                "infFile": "t58.inf",
+                "time": 1685542388762
+            },
+            {
+                "stepId": "STEP55",
+                "stepName": "Custom Request: getSegundoFactor",
+                "infFile": "t59.inf",
+                "time": 1685542388867
+            },
+            {
+                "stepId": "STEP56",
+                "stepName": "Custom Request: getCelularSeguro",
+                "infFile": "t60.inf",
+                "time": 1685542388962
+            },
+            {
+                "stepId": "STEP57",
+                "stepName": "Custom Request: getParametros_2",
+                "infFile": "t61.inf",
+                "time": 1685542389067
+            },
+            {
+                "stepId": "STEP58",
+                "stepName": "Custom Request: getParametros_3",
+                "infFile": "t62.inf",
+                "time": 1685542389135
+            },
+            {
+                "stepId": "STEP59",
+                "stepName": "Custom Request: Limits",
+                "infFile": "t63.inf",
+                "time": 1685542389266
+            },
+            {
+                "stepId": "STEP60",
+                "stepName": "Custom Request: consultaLimitesDisponibles",
+                "infFile": "t64.inf",
+                "time": 1685542389401
+            },
+            {
+                "stepId": "STEP61",
+                "stepName": "Custom Request: getInvestments",
+                "infFile": "t65.inf",
+                "time": 1685542389488
+            },
+            {
+                "stepId": "STEP62",
+                "stepName": "Custom Request: getProximoVencimiento",
+                "infFile": "t66.inf",
+                "time": 1685542389583
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "00_Login",
+                "rawStartTime": 1685542369272,
+                "rawEndTime": 1685542389592,
+                "thinkTime": 0.0,
+                "wastedTime": 0.7450242042541504
+            }
+        ]
+    }
+]

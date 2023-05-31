@@ -1,0 +1,13 @@
+[t91]
+FileName1=t91_list.json
+URL1=https://cdn.unistream.io/option/list?scopeId=PRD_L9FZ
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_91.xml
+RequestHeaderFile=t91_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t91_ResponseHeader.txt
+FileName2=t91_imageUpload.html
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/jslib/tparty/widgets/imageUpload/imageUpload.js
+[ProtocolInfo]
+ProtocolId=QTWeb

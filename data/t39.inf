@@ -1,0 +1,11 @@
+[t39]
+FileName1=t39_Lato-Light.html
+URL1=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/Lato-Light.ttf
+Total=1
+ContentType=font/ttf
+SnapshotXmlFile=snapshot_39.xml
+RequestHeaderFile=t39_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t39_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

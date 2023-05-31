@@ -1,0 +1,17 @@
+POST /v3/b8cdb0e4cff24599a286bf8e87ff1c96 HTTP/1.1
+Host: mainnet.infura.io
+Connection: keep-alive
+Content-Length: 201
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: chrome-extension://fhbohimaelbohpjbbldcngcnapndodjp
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es;q=0.8
+

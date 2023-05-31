@@ -1,0 +1,18 @@
+[t4]
+FileName2=t1_1_imageUpload.js
+RawStepEndTime=1685542371731
+RequestBodyFile=t4_RequestBody.txt
+RawStepName=list
+ContentType=application/json
+URL1=https://cdn.unistream.io/option/list?scopeId=PRD_L9FZ
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/455133105/desktopweb/jslib/tparty/widgets/imageUpload/imageUpload.js
+URL3=http://192.168.0.16:8008/ssdp/device-desc.xml
+ResponseHeaderFile=t4_ResponseHeader.txt
+SnapshotXmlFile=snapshot_4.xml
+RequestHeaderFile=t4_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1685542371613
+Total=3
+StepName=Url: list
+FileName1=t4.json
+FileName3=t1_0_device-desc.xml

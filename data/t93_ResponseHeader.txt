@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Thu, 11 May 2023 14:04:37 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 2
+Connection: keep-alive
+Server: BunnyCDN-AR1-813
+CDN-PullZone: 1157136
+CDN-Uid: 22cfe44b-a8d1-4633-92e1-e90c813538d0
+CDN-RequestCountryCode: AR
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=2592000
+ETag: W/"2-l9Fw4VUO7kr8CvBlt4zaMCqXZ0w"
+Via: 1.1 vegur
+X-Powered-By: Express
+CDN-ProxyVer: 1.03
+CDN-RequestPullSuccess: True
+CDN-RequestPullCode: 200
+CDN-CachedAt: 03/16/2023 10:59:26
+CDN-EdgeStorageId: 813
+CDN-Status: 200
+CDN-RequestId: 1db7fa890510a4c6a98b62ce1a1f5a46
+CDN-Cache: HIT
+

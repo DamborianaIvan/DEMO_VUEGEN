@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+cache-control: no-store, no-cache, must-revalidate
+x-xss-protection: 1
+pragma: no-cache
+date: Wed, 31 May 2023 14:13:10 GMT
+access-control-allow-origin: *
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+content-type: application/json;charset=ISO-8859-1
+content-length: 65
+access-control-allow-methods: GET, HEAD, POST, TRACE, OPTIONS, PUT, DELETE, PATCH
+

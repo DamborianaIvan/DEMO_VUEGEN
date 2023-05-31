@@ -1,0 +1,2 @@
+"jsondata=%7B%22idAdherente%22%3A%22105752%22%2C%22idTipoOperacion%22%3A%226%22%2C%22segundoFac"
+"torVigente%22%3A%22BYPASS%22%2C%22idOperador%22%3A%225606%22%7D"

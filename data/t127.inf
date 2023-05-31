@@ -1,0 +1,11 @@
+[t127]
+FileName1=t127_User.json
+URL1=https://ncdtesting.bancocredicoop.coop/services/data/v1/RBObjects/objects/User
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_127.xml
+RequestHeaderFile=t127_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t127_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

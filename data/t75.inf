@@ -1,0 +1,11 @@
+[t75]
+FileName1=t75_firefox_128x128.png
+URL1=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/images/firefox_128x128.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_75.xml
+RequestHeaderFile=t75_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t75_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

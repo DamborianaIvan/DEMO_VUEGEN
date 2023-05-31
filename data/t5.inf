@@ -1,0 +1,11 @@
+[t5]
+FileName1=t5_device-desc.xml
+URL1=http://192.168.0.16:8008/ssdp/device-desc.xml
+Total=1
+ContentType=application/xml
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t5_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

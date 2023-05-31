@@ -1,0 +1,70 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP63",
+                "stepName": "Url: NCDBC",
+                "infFile": "t1.inf",
+                "time": 1685542391433
+            },
+            {
+                "stepId": "STEP64",
+                "stepName": "Custom Request: token",
+                "infFile": "t3.inf",
+                "time": 1685542392437
+            },
+            {
+                "stepId": "STEP65",
+                "stepName": "Url: list",
+                "infFile": "t4.inf",
+                "time": 1685542392710
+            },
+            {
+                "stepId": "STEP66",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96",
+                "infFile": "t5.inf",
+                "time": 1685542393760
+            },
+            {
+                "stepId": "STEP67",
+                "stepName": "Url: filtered",
+                "infFile": "t6.inf",
+                "time": 1685542393912
+            },
+            {
+                "stepId": "STEP68",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_2",
+                "infFile": "t7.inf",
+                "time": 1685542394396
+            },
+            {
+                "stepId": "STEP69",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_3",
+                "infFile": "t8.inf",
+                "time": 1685542397468
+            },
+            {
+                "stepId": "STEP70",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_4",
+                "infFile": "t9.inf",
+                "time": 1685542398022
+            },
+            {
+                "stepId": "STEP71",
+                "stepName": "Custom Request: b8cdb0e4cff24599a286bf8e87ff1c96_5",
+                "infFile": "t10.inf",
+                "time": 1685542398473
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "00_Login",
+                "rawStartTime": 1685542389623,
+                "rawEndTime": 1685542398855,
+                "thinkTime": 0.0,
+                "wastedTime": 0.11967086791992188
+            }
+        ]
+    }
+]

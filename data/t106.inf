@@ -1,0 +1,13 @@
+[t106]
+FileName1=t106.json
+URL1=https://ncdtesting.bancocredicoop.coop/authService/100000002/login
+Total=2
+RequestHeaderFile=t106_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t106_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_106.xml
+FileName2=t106_kvmodules.html
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/appjs/kvmodules.js
+[ProtocolInfo]
+ProtocolId=QTWeb

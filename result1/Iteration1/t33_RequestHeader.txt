@@ -1,0 +1,23 @@
+POST /services/data/v1/RBObjects/operations/Parametros/getParametros HTTP/1.1
+Content-Type: application/json
+Referer: https://ncdtesting.bancocredicoop.coop/apps/NCDBC/
+X-Kony-ReportingParams: %7B%22os%22:%22113%22,%22dm%22:%22%22,%22did%22:%22A594C687-7A55-40AB-A3F9-E8067751D253%22,%22ua%22:%22Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36%22,%22aid%22:%22NCDBC%22,%22aname%22:%22NCDBC%22,%22chnl%22:%22desktop%22,%22plat%22:%22web%22,%22aver%22:%222.71.28%22,%22atype%22:%22spa%22,%22stype%22:%22b2c%22,%22kuid%22:%22%22,%22mfaid%22:%224237d582-f662-4d83-b6f0-bd96c524dce1%22,%22mfbaseid%22:%22c66355b8-eb0b-4ff6-886b-029b47992a3a%22,%22mfaname%22:%22DbpLocalServices%22,%22sdkversion%22:%229.2.15%22,%22sdktype%22:%22js%22,%22fid%22:%22frmLogin%22,%22sessiontype%22:%22I%22,%22rsid%22:%221683908364457-e53a-db07-5f43%22,%22svcid%22:%22login_DbxUserLogin%22%7D
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+X-Kony-Authorization: eyAidHlwIjogImp3dCIsICJhbGciOiAiUlMyNTYiIH0.eyAiX3ZlciI6ICJ2MS4xIiwgImlzcyI6ICJodHRwOi8vc2JpbjIxMDJseC5iYW5jb2NyZWRpY29vcC5jb29wOjgwODAvYXV0aFNlcnZpY2UvMTAwMDAwMDAyIiwgIl9zY29wZSI6ICJnIiwgIl9pc3NtZXRhIjogIi9tZXRhZGF0YS80NlBhWFJjMXRSeExoeXFPaldxd2lRPT0iLCAiX2FwcCI6ICI0MjM3ZDU4Mi1mNjYyLTRkODMtYjZmMC1iZDk2YzUyNGRjZTEiLCAiX3Nlc3Npb25faWQiOiAiMTg0NmViMDItMmQ0Ny00OTY0LWExNDAtOWRhOWE1NmU3MmM1IiwgIl9wdWlkIjogMywgIl9pZHAiOiAiIiwgImV4cCI6IDE2ODU1NDM1ODMsICJpYXQiOiAxNjg1NTQyMzgzLCAiX3Nlc3Npb25fdGlkIjogIjEwMDAwMDAwMiIsICJfcHJvdl91c2VyaWQiOiAiYW5vbnltb3VzIiwgImp0aSI6ICJmYTBkYzU4Ni0yMTFlLTQzYWYtOTNmOC00YmNmM2U0M2Y1YzIiLCAiX2FjcyI6ICIxMDAwMDAwMDIiIH0.TCVMFfFEWya7NhlxOra9SqwKXfkylzVNWbD3Vf-oYiuhqSU2gkbc0m7px8H89tLHAUwhfcxn6qdv2WSGu6zaS6USz1XxxyxkD4TkEVtKkPdLiUqLt5g33aaSIkalf6SioX-k-IyESkbXkVoote5RLdPxWmVrLkAZUb8xdfaYJ49Wm7q5i32lFFo4uC5h2F89mDybfaCwjEXgnUXhxum5n6w28Vpdqwpjr_mnbW0hY-t8770ZL5srzC9jDsbuvPQDyr4DyohinhYSmIyyjqyOmC-k8buFdUpO2VgVxyKifhAsHqUEotI8-SXJUl90EXA1T8gem8bqZ6SGkR6ODVbIQQ
+X-Kony-API-Version: 2.0
+X-Kony-DeviceId: 24BD73D7-0BC5-483C-81D6-4D1458B11A78
+Origin: https://ncdtesting.bancocredicoop.coop
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: ncdtesting.bancocredicoop.coop
+Cookie: JSESSIONID=HvI41fGE1PvdsZCRsu52-lAz7kMAiScHtkjq0VLR.sbin2102lx
+Content-Length: 75
+

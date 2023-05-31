@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+cache-control: private,no-cache,no-store,max-age=0,no-transform
+set-cookie: JSESSIONID=OWlCfnlEHftX3yDpTHH-ysrbGpcaYwFiBHmnIRvY.sbin2102lx; path=/services
+x-xss-protection: 1
+date: Thu, 11 May 2023 15:02:14 GMT
+access-control-allow-origin: *
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-kony-requestid: 028c7d74-28de-4fa1-a4fe-e429442a63af
+content-type: application/json; charset=UTF-8
+content-length: 2249
+access-control-allow-methods: GET, HEAD, POST, TRACE, OPTIONS, PUT, DELETE, PATCH
+

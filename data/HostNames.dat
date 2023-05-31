@@ -1,0 +1,17 @@
+[hosts]
+ncdtesting.bancocredicoop.coop=
+accounts.google.com=
+www.googleapis.com=
+clientservices.googleapis.com=
+192.168.0.16=
+cdn.unistream.io=
+mainnet.infura.io=
+data.unistream.io=
+cacerts.digicert.com=
+www.google.com=
+steamcommunity.com=
+www.gstatic.com=
+content-autofill.googleapis.com=
+update.googleapis.com=
+safebrowsing.googleapis.com=
+easylist-downloads.adblockplus.org=

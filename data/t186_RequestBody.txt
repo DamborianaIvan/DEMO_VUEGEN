@@ -1,0 +1,1 @@
+"jsondata=%7B%22nombreParametro%22%3A%22PERMITIR_SESION_MULTIPLE_CANAL%22%7D"

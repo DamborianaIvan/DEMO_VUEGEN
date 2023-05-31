@@ -1,0 +1,17 @@
+[t108]
+FileName1=t108.json
+URL1=https://mainnet.infura.io/v3/b8cdb0e4cff24599a286bf8e87ff1c96
+Total=4
+RequestHeaderFile=t108_RequestHeader.txt
+RequestBodyFile=t108_RequestBody.txt
+ResponseHeaderFile=t108_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_108.xml
+FileName2=t108_es_ES.html
+URL2=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/resources/strings/es_ES.js?ver=2.71.28
+FileName3=t108_api.html
+URL3=https://www.google.com/recaptcha/api.js
+FileName4=t108_CordovaEvents.html
+URL4=https://ncdtesting.bancocredicoop.coop/apps/NCDBC/1158209246/desktopweb/appjs/CordovaEvents.js
+[ProtocolInfo]
+ProtocolId=QTWeb
